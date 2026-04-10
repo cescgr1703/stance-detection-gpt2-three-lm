@@ -28,7 +28,7 @@ the evaluation protocol of Zotova et al. (2021).
 The notebook is designed to run on Google Colab with a GPU runtime (tested on T4).
 
 1. Clone the repo and open `gpt2_three_lm_argmin.ipynb` in Colab
-2. Download the CIC-ES dataset from [Zotova et al. (2020)]((https://github.com/ixa-ehu/catalonia-independence-corpus)) and place the splits under `data/`
+2. Download the CIC-ES dataset from [Zotova et al. (2020)](([https://github.com/ixa-ehu/catalonia-independence-corpus](https://github.com/ixa-ehu/catalonia-independence-corpus))) and place the splits under `data/`
 3. Update the path constants in the configuration cell before running
 
 ## Citation
